@@ -386,3 +386,11 @@ header.masthead p {
 .text-faded mb-4 {
   padding-bottom: 90px;
 }
+
+.about {
+  color: white;
+}
+
+.section-heading {
+  font-weight: 700;
+}
