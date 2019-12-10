@@ -394,3 +394,23 @@ header.masthead p {
 .section-heading {
   font-weight: 700;
 }
+
+.container-project {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.col-lg-4 col-sm-6 {
+  align-content: center;
+}
+
+.portfolio-cap {
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.3em;
+  padding-bottom: 50px;
+  text-decoration: underline;
+}
